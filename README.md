@@ -10,7 +10,7 @@ Computer Science Student &nbsp;·&nbsp; Open Source Contributor
 
 ### About
 
-CS student focused on backend systems, Kubernetes controllers, and cloud-native infrastructure. Active contributor across multiple CNCF projects including prometheus-operator, Jaeger, Volcano, and OpenTelemetry.
+CS student focused on backend systems, Kubernetes controllers, and cloud-native infrastructure. Active contributor across multiple CNCF projects including prometheus-operator, Jaeger, and Volcano.
 
 Currently preparing for **GSoC** and **LFX Mentorship** with the Python Software Foundation and Django ecosystem.
 
@@ -45,20 +45,8 @@ Currently preparing for **GSoC** and **LFX Mentorship** with the Python Software
 
 ### Stack
 
-**Languages:** Go &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript
+**Languages:** Go &nbsp;·&nbsp; Python
 
 **Frameworks:** Django
 
 **Infrastructure:** Kubernetes &nbsp;·&nbsp; Prometheus &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashika0724&show_icons=true&hide_border=true&count_private=true&hide_title=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika0724&layout=compact&hide_border=true)
-
-</div>
