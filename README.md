@@ -1,10 +1,4 @@
-<div align="center">
-
-## Yashika
-
-Computer Science Student &nbsp;·&nbsp; Open Source Contributor
-
-</div>
+![](./banner.svg)
 
 ---
 
@@ -40,6 +34,12 @@ Currently preparing for **GSoC** and **LFX Mentorship** with the Python Software
 | PR | Title |
 |----|-------|
 | [#5002](https://github.com/volcano-sh/volcano/pull/5002) | fix(cache): validate PodGroup before eviction to prevent cache inconsistency |
+
+---
+
+### Currently Active
+
+**[openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)** — Django-based network controller. Actively contributing as part of GSoC 2026 preparation.
 
 ---
 
