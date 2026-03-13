@@ -1,8 +1,4 @@
-![](./banner.svg)
-
----
-
-### About
+### Hi, I'm Yashika 
 
 CS student focused on backend systems, Kubernetes controllers, and cloud-native infrastructure. Active contributor across multiple CNCF projects including prometheus-operator, Jaeger, and Volcano.
 
