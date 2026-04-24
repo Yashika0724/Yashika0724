@@ -33,11 +33,6 @@ Currently preparing for **GSoC** and **LFX Mentorship** with the Python Software
 
 ---
 
-### Currently Active
-
-**[openwisp/openwisp-controller](https://github.com/openwisp/openwisp-controller)** — Django-based network controller. Actively contributing as part of GSoC 2026 preparation.
-
----
 
 ### Stack
 
